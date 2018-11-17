@@ -1,35 +1,11 @@
 # intellinote
 ![Test status](https://travis-ci.org/make2514/intellinote.svg?branch=master)
 
-A writing assistance application which helps to suggest news, articles, etc. relevant to the texts that users types.
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-## Prerequisites
-
-What things you need to install the software and how to install them
-
-(To be added)
-
-## Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-(To be added)
-
-## Deployment steps
-
-0. Create a Github account
-1. Push this project repository to your Github repository
-2. Create one Heroku account
-3. Create one Heroku application
-4. Wire up your Github repository with the Heroku application
-5. Enjoy!
+A writing assistance application which helps to suggest news, articles, etc. relevant to the texts that users type.
 
 ## Built With
 
-* [Sprint Boot](https://projects.spring.io/spring-boot/) - The web framework used
+* [Spring](https://projects.spring.io/spring-boot/) - The web framework used
 * [Gradle](https://gradle.org/) - Application build Tool
 * [jQuery](https://jquery.com/) - Cross-platform JavaScript library
 * [Quilljs](https://quilljs.com/) - Rich text editor
